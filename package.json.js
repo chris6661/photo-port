@@ -1,5 +1,5 @@
 {
-    "homepage": "http://lernantino.github.io/photo-port",
+    "homepage": "http://chris6661.github.io/photo-port",
     "name": "portfolio",
     "version": "0.1.0",
     "private": true,
